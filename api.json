@@ -1,12 +1,32 @@
-{
-  "messages": [
-    {
-      "id": 1,
-      "text": "Merhaba, dünya!"
-    },
-    {
-      "id": 2,
-      "text": "Bu bir JSON API örneğidir."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Ürün 1",
+    "description": "Bu ürünün açıklaması 1",
+    "price": 10.99
+  },
+  {
+    "id": 2,
+    "name": "Ürün 2",
+    "description": "Bu ürünün açıklaması 2",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Ürün 3",
+    "description": "Bu ürünün açıklaması 3",
+    "price": 5.99
+  },
+  {
+    "id": 4,
+    "name": "Ürün 4",
+    "description": "Bu ürünün açıklaması 4",
+    "price": 15.99
+  },
+  {
+    "id": 5,
+    "name": "Ürün 5",
+    "description": "Bu ürünün açıklaması 5",
+    "price": 7.99
+  }
+]
