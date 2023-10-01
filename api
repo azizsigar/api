@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "Yunanistan",
+        "isCorrect": false
+      }
+    ]
+  },
+  // Diğer soruları buraya ekleyin
+]
