@@ -12,5 +12,70 @@
       }
     ]
   },
-  // Diğer soruları buraya ekleyin
+   {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "asdasd",
+        "isCorrect": false
+      }
+    ]
+  },
+   {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "qweqweqwe",
+        "isCorrect": false
+      }
+    ]
+  },
+   {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "agggaagh",
+        "isCorrect": false
+      }
+    ]
+  },
+   {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "mjhgvhjm",
+        "isCorrect": false
+      }
+    ]
+  },
+   {
+    "question": "Başkentleri Ankara olan ülke hangisidir?",
+    "options": [
+      {
+        "text": "Türkiye",
+        "isCorrect": true
+      },
+      {
+        "text": "57643",
+        "isCorrect": false
+      }
+    ]
+  },
+ 
 ]
